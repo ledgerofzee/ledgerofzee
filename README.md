@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ledgerofzee
-- 👀 I’m interested in ... mechatronics
+- 👀 I’m interested in ... blockchain development
 - 🌱 I’m currently learning ... trading bots
-- 💞️ I’m looking to collaborate on ... fitness tracking apps
+- 💞️ I’m looking to collaborate on ... portfolio tracking apps
 - 📫 How to reach me ... Add to the code fellas
 
 <!---
